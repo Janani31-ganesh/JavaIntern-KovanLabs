@@ -28,6 +28,10 @@ randomly grouped files.
   A simple console-based Java application implementing core OOP concepts,
   exception handling, and basic usage of Java Collections
 
+- **serializationUsingJson/**  
+  Practice examples for serializing and deserializing Java objects using JSON.
+
+
 ## Purpose
 
 - Strengthen core Java fundamentals
